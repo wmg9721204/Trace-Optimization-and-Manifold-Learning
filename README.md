@@ -1,6 +1,7 @@
 # Popular Manifold Learning Methods based on Trace Optimization
 In the paper <br>
->[2010][E.Kokiopoulou,et al] Trace optimization and eigenproblems in dimension reduction methods
+>[2010][E.Kokiopoulou,et al] Trace optimization and eigenproblems in dimension reduction methods <br>
+URL: https://onlinelibrary.wiley.com/doi/full/10.1002/nla.743
 
 it is indicated that a lot of popular algorithms of manifold learning methods (linear or nonlinear) including <br>
 **(1) PCA (Principal Component Analysis) <br>
