@@ -1,3 +1,4 @@
+# Small Manifold Learning Package based on Trace Optimization
 In the paper <br>
 **[2010][E.Kokiopoulou,et al] Trace optimization and eigenproblems in dimension reduction methods**, <br>
 it is indicated that a lot of popular algorithms of manifold learning methods (linear or nonlinear) including <br>
