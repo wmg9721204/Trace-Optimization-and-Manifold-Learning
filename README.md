@@ -12,8 +12,4 @@ This repository contains julia codes that <br>
 (1) solves the trace optimization and <br>
 (2) implements the manifold learning methods mentioned above. 
 
-Mathematically, the optimization problem is
-`$$
-\alpha
-$$`
-
+For more information, please refer to the details of the paper. 
