@@ -1,6 +1,7 @@
 # Popular Manifold Learning Methods based on Trace Optimization
 In the paper <br>
 >[2010][E.Kokiopoulou,et al] Trace optimization and eigenproblems in dimension reduction methods
+
 it is indicated that a lot of popular algorithms of manifold learning methods (linear or nonlinear) including <br>
 **(1) PCA (Principal Component Analysis) <br>
 (2) MDS (Multidimensional Scaling) <br>
