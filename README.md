@@ -13,7 +13,7 @@ This repository contains julia codes that <br>
 (2) implements the manifold learning methods mentioned above. 
 
 Mathematically, the optimization problem is
-$$
+`$$
 \alpha
-$$
+`$$
 
