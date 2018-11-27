@@ -15,5 +15,5 @@ This repository contains julia codes that <br>
 Mathematically, the optimization problem is
 `$$
 \alpha
-`$$
+$$`
 
